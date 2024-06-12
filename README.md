@@ -15,7 +15,7 @@ The aim of this project is to build a model that predicts movie ratings based on
 The following datasets were used for this project:
 
 1. Movie Dataset.csv: Contains movie information after preprocessing, including MovieName, Genre, and MovieIDs.
-2. Ratings_data: Contains ratings information after preprocessing, including Ratings and Timestamp.
+2. Ratings Dataset.csv: Contains ratings information after preprocessing, including Ratings and Timestamp.
 
 ## Libraries Used
 
